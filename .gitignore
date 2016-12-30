@@ -55,3 +55,25 @@ fabric.properties
 
 # End of https://www.gitignore.io/api/phpstorm
 
+
+/.DS_Store
+/Achi.class
+/ConfigData.class
+/Dictionary.class
+/DictionaryADT.class
+/DictionaryException.class
+/PlayAchi$1.class
+/PlayAchi$ClickHandler.class
+/PlayAchi.class
+/PosPlay.class
+/Solution$1.class
+/Solution$Date.class
+/Solution$Entry.class
+/Solution.class
+/TestDict.class
+/TestDraw.class
+/TestHash.class
+/TestWins.class
+/isRegular$Node.class
+/isRegular.class
+
