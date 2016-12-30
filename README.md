@@ -8,6 +8,7 @@ In achi, however, at most n^2 − 1 tiles can be placed on the board, and if by 
 <p align="center">
   <br>
   <img src="https://github.com/amadrzyk/Achi-Dynamic-Programming/blob/master/PlayAchi.gif" alt="Achi Gameplay"/>
+  <br>
 </p>
 
 ## Dynamic Programming
