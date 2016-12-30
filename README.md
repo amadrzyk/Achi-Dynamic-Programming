@@ -1,7 +1,7 @@
 # Achi – Dynamic Programming
 
 ## Introduction
-PlayAchi.java is a program that plays achi. In achi, two players take turns putting tiles on a square game board of size n × n. The goal is for a player to place n of their tiles in the same row, column, or diagonal of the board, similarly as in the game of tic tac toe.
+```PlayAchi.java``` is a program that plays achi. In achi, two players take turns putting tiles on a square game board of size n × n. The goal is for a player to place n of their tiles in the same row, column, or diagonal of the board, similarly as in the game of tic tac toe.
 
 In achi, however, at most n^2 − 1 tiles can be placed on the board, and if by then no player has won, then the players take turns sliding onto the empty position of the board one of their tiles adjacent to that position. If on their turn, a player does not have any tiles adjacent to the empty position of the board, the game ends in a draw.
 
