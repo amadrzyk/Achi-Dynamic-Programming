@@ -23,8 +23,5 @@ Then, running ```java PlayAchi board-size depth``` will run the Achi game. Here,
 
 ## Built With
 
+* Java
 * Eclipse
-
-## Acknowledgments
-
-* Western's CS2210A Course Staff 
